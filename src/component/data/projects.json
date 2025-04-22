@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "MovieHunt",
+    "imageSrc": "assets/projects/moviehunt.jpg",
+    "description": "A responsive movie database app built with React that fetches real-time data from TMDB API. Features include top-rated, popular, upcoming movies, detailed views, IMDb redirection, and search functionality.",
+    "demo": "https://moviehunt1703.netlify.app/",
+    "source": "https://github.com/avi17032004/MovieHunt"
+  },
+  {
+    "key": 2,
+    "title": "Travel Site",
+    "imageSrc": "assets/projects/travel.jpg",
+    "description": "Developed a responsive travel booking platform featuring hotel listings, detailed views, booking with payment and invoice download, plus integrated trending news via API.",
+    "demo": "https://travelsite1703.netlify.app/",
+    "source": "https://github.com/avi17032004/Travel-Site"
+  },
+  {
+    "key": 3,
+    "title": "User Management",
+    "imageSrc": "assets/projects/user.jpg",
+    "description": "A secure and responsive user management app using React that fetches data from an API. Users must log in to view, edit, or delete user profiles.",
+    "demo": "https://avi17032004.github.io/user-management/",
+    "source": "https://github.com/avi17032004/user-management"
+  },
+  {
+    "key": 4,
+    "title": "Shop Cart",
+    "imageSrc": "assets/projects/shop.jpg",
+    "description": "A responsive React-based e-commerce app where users can browse products from an API, add them to a cart, and complete the checkout. Features dynamic UI updates and smooth state handling with HTML, CSS, and JavaScript.",
+    "demo": "https://shop-cart-ecom.netlify.app/",
+    "source": "https://github.com/avi17032004/shop_cart"
+  },
+  {
+    "key": 5,
+    "title": "Notes App",
+    "imageSrc": "assets/projects/notes.jpg",
+    "description": "A responsive note-taking app that allows users to create, edit, delete, and search notes. Deleted notes persist in local storage, maintaining state across page refreshes.",
+    "demo": "https://notes-app-250101.netlify.app",
+    "source": "https://github.com/avi17032004/Notes-app"
+  },
+  {
+    "key": 6,
+    "title": "Weather App",
+    "imageSrc": "assets/projects/weather.jpg",
+    "description": "Shows real-time weather updates by fetching data from OpenWeatherMap API. Displays temperature, humidity, wind speed, and city-specific info with themed icons.",
+    "demo": "https://weathersite1703.netlify.app/",
+    "source": "https://github.com/avi17032004/Weather-site"
+  }
+]
