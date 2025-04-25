@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
 import { FaDownload } from "react-icons/fa6";
-import pdf from "../pdf/Avinash_React.pdf";
+import pdf from "../pdf/Avinash_Resume.pdf";
 
 const Home = () => {
   const typedRef = useRef(null);
